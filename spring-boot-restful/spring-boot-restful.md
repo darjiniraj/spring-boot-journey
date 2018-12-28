@@ -1,4 +1,4 @@
-# spring-boot-journey
+# spring-boot-restful
 
 - What is a RESTful Web Service? 
 - How to implement RESTful Web Services with Spring and Spring Boot?
